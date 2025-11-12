@@ -1,8 +1,26 @@
 {
   "name": "vite_react_shadcn_ts",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
+  "description": "provide the ui of the virtual interview pannel ",
+  "keywords": [
+    "npm",
+    "git",
+    "interview",
+    "node"
+  ],
+  "homepage": "https://github.com/ShivamMathtech/interviwer_ui#readme",
+  "bugs": {
+    "url": "https://github.com/ShivamMathtech/interviwer_ui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamMathtech/interviwer_ui.git"
+  },
+  "license": "MIT",
+  "author": "Shivam Singh",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
